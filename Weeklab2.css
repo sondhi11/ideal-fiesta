@@ -1,0 +1,20 @@
+p {
+	color: white;
+	font-size: 30px;
+	
+}
+
+div {
+	width: 400px;
+	min-height: 400px;
+	border: 10px solid black;
+	margin: 1%;
+	float:left;
+	padding: 4%;
+}
+
+#d1 {
+	background-color: teal;
+	
+}
+
